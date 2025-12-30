@@ -7,7 +7,7 @@ title: "Imran E Kibria"
     <h2>News & Updates</h2>
     <ul>   
         <!-- <li>Awarded 2nd Place at the 2025 Hayes Research Forum for my oral presentation on “Motion-Robust Volumetric CMR.”</li> -->
-        <li>Started PhD in Computer Science and Engineering at the Ohio State University. </li> 
+        <li>Our manuscript <a href="https://www.isca-archive.org/interspeech_2025/kibria25_interspeech.html" target="_blank" class="custom-                link">"AttentiveMOS: A Lightweight Attention-Only Model forSpeech Quality Prediction"</a>, has been published at the <em>ISCA                   Interspeech conference</em>, 2025.</li>    
     </ul>
 </section>
 
