@@ -8,7 +8,7 @@ title: "Imran E Kibria"
     <ul>   
         <!-- <li>Awarded 2nd Place at the 2025 Hayes Research Forum for my oral presentation on “Motion-Robust Volumetric CMR.”</li> -->
         <li>2025: Our work on small scale modeling of subjective speech quality <a href="https://www.iscaarchive.org/interspeech_2025/kibria25_interspeech.html" target="_blank" class="custom-link">"AttentiveMOS: A Lightweight Attention-Only Model for Speech Quality Prediction"</a>, has been published at the <em>ISCA Interspeech Conference</em>. </li>  
-        <li>Awarded the CSE Scarlet & Gray Award by the Ohio State University for 5 years. </li>
+        <li>2023: Awarded merit-based fellowship "CSE Scarlet & Gray Award" by the Ohio State University for 5 years. </li>
         <li>2022: Our work on automation of color assesssment for Urinalysis <a href="https://ieeexplore.ieee.org/document/9870917" target="_blank" class="custom-link">"Smartphone-Based Point-of-Care Urinalysis Assessment"</a> has been published at the <em>IEEE Engineering in Medicine and Biology Conference (EMBC)</em>. </li>
     </ul>
 </section>
