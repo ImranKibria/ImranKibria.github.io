@@ -7,7 +7,7 @@ title: "Imran E Kibria"
     <h2>News & Updates</h2>
     <ul>   
         <!-- <li>Awarded 2nd Place at the 2025 Hayes Research Forum for my oral presentation on “Motion-Robust Volumetric CMR.”</li> -->
-        <li>Started PhD in Computer Science and Engineering at the Ohio State University.   
+        <li>Started PhD in Computer Science and Engineering at the Ohio State University. </li> 
     </ul>
 </section>
 
