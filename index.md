@@ -7,7 +7,7 @@ title: "Imran E Kibria"
     <h2>News & Updates</h2>
     <ul>   
         <!-- <li>Awarded 2nd Place at the 2025 Hayes Research Forum for my oral presentation on “Motion-Robust Volumetric CMR.”</li> -->
-        <li>2025: Our work on small scale modeling for speech quality assessment <a href="https://www.iscaarchive.org/interspeech_2025/kibria25_interspeech.html" target="_blank" class="custom-link">"AttentiveMOS: A Lightweight Attention-Only Model for Speech Quality Prediction"</a>, has been published at the <em>ISCA Interspeech Conference</em>. </li>  
+        <li>2025: Our work on small scale modeling of subjective speech quality <a href="https://www.iscaarchive.org/interspeech_2025/kibria25_interspeech.html" target="_blank" class="custom-link">"AttentiveMOS: A Lightweight Attention-Only Model for Speech Quality Prediction"</a>, has been published at the <em>ISCA Interspeech Conference</em>. </li>  
         <li>2022: Our work on automation of color assesssment for Urinalysis <a href="https://ieeexplore.ieee.org/document/9870917" target="_blank" class="custom-link">"Smartphone-Based Point-of-Care Urinalysis Assessment"</a> has been published at the <em>IEEE Engineering in Medicine and Biology Conference (EMBC)</em>.
     </ul>
 </section>
