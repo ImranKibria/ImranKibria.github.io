@@ -19,7 +19,7 @@ title: "Imran E Kibria"
     <div class="project-grid">
         <div class="project">
             <img src="/assets/gifs/5d_mri.gif" alt="Motion-robust 5D MRI GIF" class="project-img">
-                <h3>Motion-robust 5D MRI Reconstruction</h3>
+                <h3>Cross Domain Generalization in SQA</h3>
             <p>
                 Integrated expectation-maximization (EM) framework, an unsupervised technique, in 5D MRI reconstruction to correct motion binning errors and reject outliers.
             </p>
@@ -39,14 +39,14 @@ title: "Imran E Kibria"
         </div>
         <div class="project">
             <img src="/assets/gifs/lowfield.gif" alt="In-magnet exercise CMR" class="project-img">
-                <h3>Low-Field 4D flow Cardiac Magnetic Resonance Imaging</h3>
+                <h3>Small scale SQA for Edge Devices</h3>
             <p>
                 Developed new CMR protocols and reconstruction frameworks to facilitate volumetric flow imaging at a low-field scanner.
             </p>
         </div>
         <div class="project">
             <img src="/assets/gifs/glasses.jpg" alt="iSight" class="project-img">
-                <h3>iSight: Smart Glasses & Cane for Visually Impaired</h3>
+                <h3>Exploring Input Representations & Foundation Models for SQA</h3>
             <p>
                 Developed a wearable prototype integrating computer vision-based smart glasses and sensor fusion-based smart cane, providing real-time audio guidance to visually impaired individuals for object identification, obstacle avoidance, and navigation.
             </p>  
