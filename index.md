@@ -7,9 +7,9 @@ title: "Imran E Kibria"
     <h2>News & Updates</h2>
     <ul>   
         <!-- <li>Awarded 2nd Place at the 2025 Hayes Research Forum for my oral presentation on “Motion-Robust Volumetric CMR.”</li> -->
-        <li>2025: Our work on small scale modeling of speech quality for edge applications <a href="https://www.iscaarchive.org/interspeech_2025/kibria25_interspeech.html" target="_blank" class="custom-link">"AttentiveMOS: A Lightweight Attention-Only Model for Speech Quality Prediction"</a>, has been published at the <em>ISCA Interspeech Conference</em>. </li>  
+        <li>2025: Our work on small scale modeling of speech quality for edge applications <a href="https://doi.org/10.21437/Interspeech.2025-2315" target="_blank" class="custom-link">"AttentiveMOS: A Lightweight Attention-Only Model for Speech Quality Prediction"</a>, has been published at the <em>ISCA Interspeech Conference</em>. </li>  
         <li>2023: Awarded merit-based fellowship "CSE Scarlet & Gray Award" by the Ohio State University for 5 years. </li>
-        <li>2022: Our work on automation of color assesssment for urine test analysis <a href="https://ieeexplore.ieee.org/document/9870917" target="_blank" class="custom-link">"Smartphone-Based Point-of-Care Urinalysis Assessment"</a> has been published at the <em>IEEE Engineering in Medicine and Biology Conference (EMBC)</em>. </li>
+        <li>2022: Our work on automation of color assesssment for urine test analysis <a href="https://doi.org/10.1109/EMBC48229.2022.9870917" target="_blank" class="custom-link">"Smartphone-Based Point-of-Care Urinalysis Assessment"</a> has been published at the <em>IEEE Engineering in Medicine and Biology Conference (EMBC)</em>. </li>
     </ul>
 </section>
 
@@ -136,7 +136,7 @@ title: "Imran E Kibria"
 
 <!-- <h3>Journal Articles</h3> -->
 <ul class="publication-list">
-<li><div class="publication-title"><a href="https://doi.org/10.21437/Interspeech.2025-2315" target="_blank"> AttentiveMOS: A Lightweight Attention-Only Model for Speech Quality Prediction.</a><span class="publication-year">2025</span></div><div class="publication-authors"> <strong>Imran E Kibria</strong>, Donald Williamson, </div><div class="publication-journal"><em> ISCA Proc. Interspeech 2025, 2340-2344</em></div></li>
+<li><div class="publication-title"><a href="https://doi.org/10.21437/Interspeech.2025-2315" target="_blank"> AttentiveMOS: A Lightweight Attention-Only Model for Speech Quality Prediction.</a><span class="publication-year">2025</span></div><div class="publication-authors"> <strong>Imran E Kibria</strong>, Donald Williamson </div><div class="publication-journal"><em> ISCA Proc. Interspeech 2025, 2340-2344</em></div></li>
 <li><div class="publication-title"><a href="https://doi.org/10.1109/EMBC48229.2022.9870917" target="_blank">Smartphone-Based Point-of-Care Urinalysis Assessment.</a><span class="publication-year">2022</span></div><div class="publication-authors"><strong>Imran E Kibria</strong>, Hussnain Ali, Shoab A. Khan</div><div class="publication-journal"><em> 44th Annual International Conference of the IEEE Engineering in Medicine & Biology Society (EMBC), 3374-3377</em></div></li>
 </ul>
 
