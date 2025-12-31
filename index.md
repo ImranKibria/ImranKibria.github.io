@@ -136,14 +136,13 @@ title: "Imran E Kibria"
 
 <!-- <h3>Journal Articles</h3> -->
 <ul class="publication-list">
-<li><div class="publication-title"><a href="https://doi.org/10.1016/j.jocmr.2025.101894" target="_blank">Accelerated Real-time Cine and Flow Under In-magnet Staged Exercise.</a><span class="publication-year">2025</span></div><div class="publication-authors">Preethi S. Chandrasekaran, Chong Chen, Yingmin Liu, <strong>Syed M. Arshad</strong>, Christopher Crabtree, Matthew Tong, Yuchi Han, Rizwan Ahmad</div><div class="publication-journal"><em>Journal of Cardiovascular Magnetic Resonance. 27(1): 101894</em></div></li>
-<li><div class="publication-title"><a href="https://doi.org/10.1002/mrm.30123" target="_blank">Motion-robust free-running volumetric cardiovascular MRI.</a><span class="publication-year">2024</span></div><div class="publication-authors"><strong>Syed M. Arshad</strong>, Lee C. Potter, Chong Chen, Yingmin Liu, Preethi Chandrasekaran, Christopher Crabtree, Matthew S. Tong, Orlando P. Simonetti, Yuchi Han, Rizwan Ahmad</div><div class="publication-journal"><em>Magn Reson Med. 92(3): 1248-1262</em></div></li>
+<li><div class="publication-title"><a href="https://doi.org/10.21437/Interspeech.2025-2315" target="_blank"> AttentiveMOS: A Lightweight Attention-Only Model for Speech Quality Prediction.</a><span class="publication-year">2025</span></div><div class="publication-authors"> <strong>Imran E Kibria</strong>, Donald Williamson, </div><div class="publication-journal"><em> ISCA Proc. Interspeech 2025, 2340-2344</em></div></li>
+<li><div class="publication-title"><a href="https://doi.org/10.1109/EMBC48229.2022.9870917" target="_blank">Smartphone-Based Point-of-Care Urinalysis Assessment.</a><span class="publication-year">2022</span></div><div class="publication-authors"><strong>Imran E Kibria</strong>, Hussnain Ali, Shoab A. Khan</div><div class="publication-journal"><em> 44th Annual International Conference of the IEEE Engineering in Medicine & Biology Society (EMBC), 3374-3377</em></div></li>
 </ul>
 
 <!-- <h3>Preprints</h3>
 <ul class="publication-list">
 <li><div class="publication-title"><a href="https://arxiv.org/abs/2412.04639" target="_blank">Motion-Guided Deep Image Prior for Cardiac MRI.</a><span class="publication-year">2024</span></div><div class="publication-authors">Marc Vornehm, Chong Chen, Muhammad Ahmad Sultan, <strong>Syed M. Arshad</strong>, Yuchi Han, Florian Knoll, Rizwan Ahmad</div><div class="publication-journal"><em>arXiv preprint arXiv:2412.04639</em></div></li>
-<li><div class="publication-title"><a href="https://arxiv.org/abs/2405.16715" target="_blank">Coil Reweighting to Suppress Motion Artifacts in Real-Time Exercise Cine Imaging.</a><span class="publication-year">2024</span></div><div class="publication-authors">Chong Chen, Yingmin Liu, Yu Ding, Matthew Tong, Preethi Chandrasekaran, Christopher Crabtree, <strong>Syed M. Arshad</strong>, Yuchi Han, Rizwan Ahmad</div><div class="publication-journal"><em>arXiv preprint arXiv:2405.16715</em></div></li>
 </ul> -->
 
 </section>
