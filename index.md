@@ -72,8 +72,8 @@ title: "Imran E Kibria"
 
 <!-- <h3>Journal Articles</h3> -->
 <ul class="publication-list">
-<li><div class="publication-title"><a href="https://doi.org/10.21437/Interspeech.2025-2315" target="_blank"> AttentiveMOS: A Lightweight Attention-Only Model for Speech Quality Prediction.</a><span class="publication-year">2025</span></div><div class="publication-authors"> <strong>Imran E Kibria</strong>, Donald Williamson </div><div class="publication-journal"><em> ISCA Proc. Interspeech 2025, 2340-2344</em></div></li>
-<li><div class="publication-title"><a href="https://doi.org/10.1109/EMBC48229.2022.9870917" target="_blank">Smartphone-Based Point-of-Care Urinalysis Assessment.</a><span class="publication-year">2022</span></div><div class="publication-authors"><strong>Imran E Kibria</strong>, Hussnain Ali, Shoab A. Khan</div><div class="publication-journal"><em> 44th Annual International Conference of the IEEE Engineering in Medicine & Biology Society (EMBC), 3374-3377</em></div></li>
+<li><div class="publication-title"><a href="https://doi.org/10.21437/Interspeech.2025-2315" target="_blank"> AttentiveMOS: A Lightweight Attention-Only Model for Speech Quality Prediction</a><span class="publication-year">2025</span></div><div class="publication-authors"> <strong>Imran E Kibria</strong>, Donald Williamson </div><div class="publication-journal"><em> ISCA Proc. Interspeech 2025, 2340-2344</em></div></li>
+<li><div class="publication-title"><a href="https://doi.org/10.1109/EMBC48229.2022.9870917" target="_blank">Smartphone-Based Point-of-Care Urinalysis Assessment</a><span class="publication-year">2022</span></div><div class="publication-authors"><strong>Imran E Kibria</strong>, Hussnain Ali, Shoab A. Khan</div><div class="publication-journal"><em> 44th Annual International Conference of the IEEE Engineering in Medicine & Biology Society (EMBC), 3374-3377</em></div></li>
 </ul>
 
 <!-- <h3>Preprints</h3>
