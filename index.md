@@ -21,7 +21,7 @@ title: "Imran E Kibria"
             <img src="/assets/gifs/5d_mri.gif" alt="Motion-robust 5D MRI GIF" class="project-img">
                 <h3>One Model for All Domains: Zero-Shot Speech Quality Assessment</h3>
             <p>
-                Applied Sharpness-Aware Minimization (SAM) on unified MOS datasets. It promoted learning of diverse features, reduced corpus                     effect, and enhanced cross-domain generalization resulting in up to +42% correlation over Adam across 12 test sets.
+                Applied Sharpness-Aware Minimization (SAM) on unified MOS datasets; Promoted diverse features, reduced corpus effect, enhanced                     cross-domain generalization; Up to 76% MSE reduction and 42% correlation improvement over Adam across 12 test sets.
             </p>
             <div class="project-links">
                 <a href="https://arxiv.org/abs/2507.23224" target="_blank" class="custom-link" style="text-decoration: none; display: flex; align-items: center; gap: 5px;">
@@ -41,11 +41,12 @@ title: "Imran E Kibria"
             <img src="/assets/gifs/lowfield.gif" alt="In-magnet exercise CMR" class="project-img">
                 <h3>Lightweight AI for Perceptual Speech Quality on the Edge</h3>
             <p>
-                Developed a lightweight attention-only model (86K params) for speech quality. It 100× smaller than wav2vec2, yet demonstrates                    comparable performance on SOMOS dataset. Self-teaching further improves noisy-label robustness, +8% in correlation.</p>
+                A lightweight attention-only model (86K params) for speech quality; 100× smaller than wav2vec2, yet comparable performance on                     SOMOS dataset; Self-teaching further improved noisy-label robustness, +8% in correlation.
+            </p>
         </div>
         <div class="project">
             <img src="/assets/gifs/glasses.jpg" alt="iSight" class="project-img">
-                <h3>Exploration of Optimal Representations & Foundation Models for SQA</h3>
+                <h3>Exploring Optimal Representations & Foundation Models for SQA</h3>
             <p>
                 Developed a wearable prototype integrating computer vision-based smart glasses and sensor fusion-based smart cane, providing real-time audio guidance to visually impaired individuals for object identification, obstacle avoidance, and navigation.
             </p>  
