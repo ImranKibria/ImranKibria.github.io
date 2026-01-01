@@ -41,7 +41,7 @@ title: "Imran E Kibria"
             <img src="/assets/gifs/AttentiveMOS_Rotated.png" alt="AttentiveMOS" class="project-img">
                 <h3>Lightweight AI for Perceptual Speech Quality on the Edge</h3>
             <p>
-                A lightweight attention-only model (86K params) for speech quality; 100× smaller than wav2vec2, yet comparable performance on                     SOMOS dataset; Self-teaching further improved noisy-label robustness, +8% in correlation.
+                A lightweight attention-only model (86K params) for speech quality; 100× smaller than wav2vec2, yet comparable performance on                     SOMOS dataset; Self-teaching improved noisy-label robustness, +8% in correlation.
             </p>
             <div class="project-links">
                 <a href="https://doi.org/10.21437/Interspeech.2025-2315" style="text-decoration: none; display: flex; align-items: center; gap:                     5px;">
