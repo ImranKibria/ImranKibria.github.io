@@ -43,6 +43,19 @@ title: "Imran E Kibria"
             <p>
                 A lightweight attention-only model (86K params) for speech quality; 100× smaller than wav2vec2, yet comparable performance on                     SOMOS dataset; Self-teaching further improved noisy-label robustness, +8% in correlation.
             </p>
+            <div class="project-links">
+                <a href="https://doi.org/10.21437/Interspeech.2025-2315" style="text-decoration: none; display: flex; align-items: center; gap:                     5px;">
+                    Paper <img src="/assets/icons/paper-icon.png" alt="Paper Icon" style="width:24px; height:24px;">
+                </a>
+                <a>|</a>
+                <a href="https://github.com/OSU-MR/Motion-Robust-5D-MRI-EMORe" target="_blank" class="custom-link" style="text-decoration: none; display: flex; align-items: center; gap: 5px;">
+                    Code <img src="/assets/icons/github-icon.png" alt="GitHub Icon" style="width:24px; height:24px;">
+                </a>
+                <a>|</a>
+                <a href="https://doi.org/10.1016/j.jocmr.2024.101509" target="_blank" class="custom-link" style="text-decoration: none; display: flex; align-items: center; gap: 5px;">
+                    Abstract <img src="/assets/icons/abstract-icon.png" alt="Abstract Icon" style="width:24px; height:24px;">
+                </a>
+            </div>
         </div>
         <div class="project">
             <img src="/assets/gifs/glasses.jpg" alt="iSight" class="project-img">
