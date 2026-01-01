@@ -37,6 +37,26 @@ title: "Imran E Kibria"
                 </a>
             </div>
         </div>
+        <div class="project">
+            <img src="/assets/gifs/AttentiveMOS_Rotated.png" alt="AttentiveMOS" class="project-img">
+                <h3>Smartphone-Based Urine Test Strip Analysis for At-Home Diagnostics</h3>
+            <p>
+                Smartphone-based system for accurate urine test strip color reading; Combines linear regression color calibration with                             Euclidean color matching; Achieved 92% accuracy in-house; low-cost, portable alternative to lab analyzers.
+            </p>
+            <div class="project-links">
+                <a href="https://doi.org/10.1109/EMBC48229.2022.9870917" style="text-decoration: none; display: flex; align-items: center; gap:                     5px;">
+                    Paper <img src="/assets/icons/paper-circular.jpeg" alt="Paper Icon" style="width:24px; height:24px;">
+                </a>
+                <a>|</a>
+                <a href="https://github.com/ImranKibria/Urinalysis" target="_blank" class="custom-link" style="text-decoration: none;                             display: flex; align-items: center; gap: 5px;">
+                    Code <img src="/assets/icons/github-circular.jpeg" alt="GitHub Icon" style="width:24px; height:24px;">
+                </a>
+                <a>|</a>
+                <a href="/assets/presentations/InterspeechPresentation.pdf" target="_blank" class="custom-link" style="text-decoration: none;                     display: flex; align-items: center; gap: 5px;">
+                    Presentation <img src="/assets/icons/presentation-circular.jpeg" alt="Presentation Icon" style="width:24px; height:24px;">
+                </a>
+            </div>
+        </div>
         <!-- <div class="project">
             <img src="/assets/gifs/5d_mri.gif" alt="Motion-robust 5D MRI GIF" class="project-img">
                 <h3>One Model for All Domains: Zero-Shot Speech Quality Assessment</h3>
