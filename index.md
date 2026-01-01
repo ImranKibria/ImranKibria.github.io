@@ -48,7 +48,7 @@ title: "Imran E Kibria"
                     Paper <img src="/assets/icons/paper-icon.png" alt="Paper Icon" style="width:24px; height:24px;">
                 </a>
                 <a>|</a>
-                <a href="https://github.com/OSU-MR/Motion-Robust-5D-MRI-EMORe" target="_blank" class="custom-link" style="text-decoration: none; display: flex; align-items: center; gap: 5px;">
+                <a href="https://github.com/ImranKibria/AttentiveMOS" target="_blank" class="custom-link" style="text-decoration: none;                             display: flex; align-items: center; gap: 5px;">
                     Code <img src="/assets/icons/github-icon.png" alt="GitHub Icon" style="width:24px; height:24px;">
                 </a>
                 <a>|</a>
