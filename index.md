@@ -52,8 +52,8 @@ title: "Imran E Kibria"
                     Code <img src="/assets/icons/github-circular.jpeg" alt="GitHub Icon" style="width:24px; height:24px;">
                 </a>
                 <a>|</a>
-                <a href="/assets/icons/presentation-circular.jpeg" target="_blank" class="custom-link" style="text-decoration: none; display:                     flex; align-items: center; gap: 5px;">
-                    Presentation <img src="/assets/presentations/InterspeechPresentation.pdf" alt="Presentation Icon" style="width:24px;                             height:24px;">
+                <a href="/assets/presentations/InterspeechPresentation.pdf" target="_blank" class="custom-link" style="text-decoration: none;                     display: flex; align-items: center; gap: 5px;">
+                    Presentation <img src="/assets/icons/presentation-circular.jpeg" alt="Presentation Icon" style="width:24px; height:24px;">
                 </a>
             </div>
         </div>
