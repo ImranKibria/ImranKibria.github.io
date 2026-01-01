@@ -38,7 +38,7 @@ title: "Imran E Kibria"
             </div>
         </div>
         <div class="project">
-            <img src="/assets/gifs/AttentiveMOS_Rotated.png" alt="AttentiveMOS" class="project-img">
+            <img src="/assets/gifs/UrinoxImage.png" alt="AttentiveMOS" class="project-img">
                 <h3>Smartphone-Based Urine Test Strip Analysis for At-Home Diagnostics</h3>
             <p>
                 Smartphone-based system for accurate urine test strip color reading; Combines linear regression color calibration with                             Euclidean color matching; Achieved 92% accuracy in-house; low-cost, portable alternative to lab analyzers.
@@ -52,7 +52,7 @@ title: "Imran E Kibria"
                     Code <img src="/assets/icons/github-circular.jpeg" alt="GitHub Icon" style="width:24px; height:24px;">
                 </a>
                 <a>|</a>
-                <a href="/assets/presentations/InterspeechPresentation.pdf" target="_blank" class="custom-link" style="text-decoration: none;                     display: flex; align-items: center; gap: 5px;">
+                <a href="/assets/presentations/UrinoxPresentation.pdf" target="_blank" class="custom-link" style="text-decoration: none;                             display: flex; align-items: center; gap: 5px;">
                     Presentation <img src="/assets/icons/presentation-circular.jpeg" alt="Presentation Icon" style="width:24px; height:24px;">
                 </a>
             </div>
