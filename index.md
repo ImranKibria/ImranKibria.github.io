@@ -38,7 +38,7 @@ title: "Imran E Kibria"
             </div>
         </div>
         <div class="project">
-            <img src="/assets/gifs/lowfield.gif" alt="In-magnet exercise CMR" class="project-img">
+            <img src="/assets/gifs/AttentiveMOS_Rotated.png" alt="AttentiveMOS" class="project-img">
                 <h3>Lightweight AI for Perceptual Speech Quality on the Edge</h3>
             <p>
                 A lightweight attention-only model (86K params) for speech quality; 100× smaller than wav2vec2, yet comparable performance on                     SOMOS dataset; Self-teaching further improved noisy-label robustness, +8% in correlation.
