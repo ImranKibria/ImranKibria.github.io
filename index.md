@@ -41,7 +41,7 @@ title: "Imran E Kibria"
             <img src="/assets/gifs/UrinoxImage.png" alt="AttentiveMOS" class="project-img">
                 <h3>Smartphone-Based Urine Test Strip Analysis for At-Home Diagnostics</h3>
             <p>
-                Smartphone-based system for accurate urine test strip color reading; combines linear regression color calibration with                             Euclidean color matching; achieved 92% accuracy in-house; low-cost alternative to lab analyzers.
+                Smartphone application for accurate urine test strip color reading; combines linear regression color calibration with                             Euclidean color matching; achieved 92% accuracy in-house; low-cost alternative to lab analyzers.
             </p>
             <div class="project-links">
                 <a href="https://doi.org/10.1109/EMBC48229.2022.9870917" style="text-decoration: none; display: flex; align-items: center; gap:                     5px;">
