@@ -45,15 +45,15 @@ title: "Imran E Kibria"
             </p>
             <div class="project-links">
                 <a href="https://doi.org/10.21437/Interspeech.2025-2315" style="text-decoration: none; display: flex; align-items: center; gap:                     5px;">
-                    Paper <img src="/assets/icons/paper-icon.png" alt="Paper Icon" style="width:24px; height:24px;">
+                    Paper <img src="/assets/icons/paper-circular.jpeg" alt="Paper Icon" style="width:24px; height:24px;">
                 </a>
                 <a>|</a>
                 <a href="https://github.com/ImranKibria/AttentiveMOS" target="_blank" class="custom-link" style="text-decoration: none;                             display: flex; align-items: center; gap: 5px;">
-                    Code <img src="/assets/icons/github-icon.png" alt="GitHub Icon" style="width:24px; height:24px;">
+                    Code <img src="/assets/icons/github-circular.jpeg" alt="GitHub Icon" style="width:24px; height:24px;">
                 </a>
                 <a>|</a>
-                <a href="https://doi.org/10.1016/j.jocmr.2024.101509" target="_blank" class="custom-link" style="text-decoration: none; display: flex; align-items: center; gap: 5px;">
-                    Abstract <img src="/assets/icons/abstract-icon.png" alt="Abstract Icon" style="width:24px; height:24px;">
+                <a href="/assets/icons/presentation-circular.jpeg" target="_blank" class="custom-link" style="text-decoration: none; display:                     flex; align-items: center; gap: 5px;">
+                    Presentation <img src="/assets/presentations/InterspeechPresentation.pdf" alt="Presentation Icon" style="width:24px;                             height:24px;">
                 </a>
             </div>
         </div>
