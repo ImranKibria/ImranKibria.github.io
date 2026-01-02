@@ -44,7 +44,7 @@ title: "Imran E Kibria"
                 <h3>Lightweight AI for Perceptual Speech Quality on the Edge</h3>
             <ul>
                 <li>A lightweight attention-based model (86K params) for speech quality </li>
-                <li>100× smaller yet comparable in performance to wav2vec on SOMOS dataset </li>
+                <li>100× smaller than wav2vec2, yet similar performance on SOMOS dataset </li>
                 <li>Self-teaching improved noisy-label robustness, +8% in correlation </li>
             </ul>
             <div class="project-links">
