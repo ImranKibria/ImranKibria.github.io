@@ -20,7 +20,7 @@ title: "Imran E Kibria"
         <div class="project">
             <img src="/assets/gifs/5d_mri.gif" alt="Motion-robust 5D MRI GIF" class="project-img">
                 <h3>One Model for All Domains: Zero-Shot Speech Quality Assessment</h3>
-            <ul>
+            <ul style="text-align: left;">
                 <li>Applied Sharpness-Aware Minimization (SAM) on unified MOS datasets. </li>
                 <li>Promotes diverse features, reduces corpus effect, enhances domain generalization. </li> 
                 <li>Up to 76% MSE reduction and 42% correlation improvement over Adam across 12 test sets. </li>
@@ -42,7 +42,7 @@ title: "Imran E Kibria"
         <div class="project">
             <img src="/assets/gifs/AttentiveMOS_Rotated.png" alt="AttentiveMOS" class="project-img">
                 <h3>Lightweight AI for Perceptual Speech Quality on the Edge</h3>
-            <ul>
+            <ul style="text-align: left;">
                 <li>A lightweight attention-based model (86K params) for speech quality. </li>
                 <li>100× smaller than wav2vec2, yet similar performance on SOMOS dataset. </li>
                 <li>Self-teaching improved noisy-label robustness, +8% in correlation. </li>
@@ -64,10 +64,10 @@ title: "Imran E Kibria"
         <div class="project">
             <img src="/assets/gifs/dipstick.png" alt="UrinoxChart" class="project-img">
                 <h3>Smartphone-Based Urine Test Strip Analysis for At-Home Diagnostics</h3>
-            <ul>
+            <ul style="text-align: left;">
                 <li>Smartphone application for accurate urine test strip color reading.</li>
-                <li>Combines linear regression color calibration with Euclidean color matching </li>
-                <li>Achieved 92% accuracy in-house; low-cost alternative to lab analyzers. </li>
+                <li>Combines linear regression color calibration with Euclidean color matching. </li>
+                <li>Achieved 92% accuracy in-house; low-cost, portable solution to lab analyzers. </li>
             </ul>
             <div class="project-links">
                 <a href="https://doi.org/10.1109/EMBC48229.2022.9870917" style="text-decoration: none; display: flex; align-items: center; gap:                     5px;">
