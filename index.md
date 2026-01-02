@@ -22,8 +22,8 @@ title: "Imran E Kibria"
                 <h3>One Model for All Domains: Zero-Shot Speech Quality Assessment</h3>
             <ul style="text-align: left;">
                 <li>Applied Sharpness-Aware Minimization (SAM) on unified MOS datasets. </li>
-                <li>Promotes diverse features, reduces corpus effect, enhances domain generalization. </li> 
-                <li>Up to 76% MSE reduction and 42% correlation improvement over Adam across 12 test sets. </li>
+                <li>Learns diverse features, reduces corpus effect, enhances domain generalization. </li> 
+                <li>Up to 76% error reduction & 42% correlation improvement over Adam across twelve test sets. </li>
             </ul>
             <div class="project-links">
                 <a href="https://arxiv.org/abs/2507.23224" target="_blank" class="custom-link" style="text-decoration: none; display: flex;                         align-items: center; gap: 5px;">
@@ -66,7 +66,7 @@ title: "Imran E Kibria"
                 <h3>Smartphone-Based Urine Test Strip Analysis for At-Home Diagnostics</h3>
             <ul style="text-align: left;">
                 <li>Smartphone application for accurate urine test strip color reading.</li>
-                <li>Combines linear regression color calibration with Euclidean color matching. </li>
+                <li>Combines linear regression color calibration with Euclidean color matching </li>
                 <li>Achieved 92% accuracy in-house; low-cost, portable solution to lab analyzers. </li>
             </ul>
             <div class="project-links">
