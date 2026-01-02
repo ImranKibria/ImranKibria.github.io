@@ -20,9 +20,11 @@ title: "Imran E Kibria"
         <div class="project">
             <img src="/assets/gifs/5d_mri.gif" alt="Motion-robust 5D MRI GIF" class="project-img">
                 <h3>One Model for All Domains: Zero-Shot Speech Quality Assessment</h3>
-            <p>
-                Applied Sharpness-Aware Minimization (SAM) on unified MOS datasets; Promoted diverse features, reduced corpus effect, enhanced                     cross-domain generalization; Up to 76% MSE reduction and 42% correlation improvement over Adam across 12 test sets.
-            </p>
+            <ul>
+                <li>Applied Sharpness-Aware Minimization (SAM) on unified MOS datasets. 
+                <li>Promoted diverse features, reduced corpus effect, enhanced cross-domain generalization. 
+                <li>Up to 76% MSE reduction and 42% correlation improvement over Adam across 12 test sets.
+            </ul>
             <div class="project-links">
                 <a href="https://arxiv.org/abs/2507.23224" target="_blank" class="custom-link" style="text-decoration: none; display: flex;                         align-items: center; gap: 5px;">
                     Paper <img src="/assets/icons/paper-icon.png" alt="Paper Icon" style="width:24px; height:24px;">
@@ -62,9 +64,11 @@ title: "Imran E Kibria"
         <div class="project">
             <img src="/assets/gifs/dipstick.png" alt="UrinoxChart" class="project-img">
                 <h3>Smartphone-Based Urine Test Strip Analysis for At-Home Diagnostics</h3>
-            <p>
-                Smartphone application for accurate urine test strip color reading; combines linear regression color calibration with                             Euclidean color matching; achieved 92% accuracy in-house; low-cost, portable alternative to lab analyzers.
-            </p>
+            <ul>
+                <li>Smartphone application for accurate urine test strip color reading
+                <li>Combines linear regression color calibration with Euclidean color matching 
+                <li>Achieved 92% accuracy in-house; low-cost, portable alternative to lab analyzers.
+            </ul>
             <div class="project-links">
                 <a href="https://doi.org/10.1109/EMBC48229.2022.9870917" style="text-decoration: none; display: flex; align-items: center; gap:                     5px;">
                     Paper <img src="/assets/icons/paper-circular.jpeg" alt="Paper Icon" style="width:24px; height:24px;">
