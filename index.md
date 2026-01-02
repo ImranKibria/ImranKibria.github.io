@@ -21,7 +21,7 @@ title: "Imran E Kibria"
             <img src="/assets/gifs/5d_mri.gif" alt="Motion-robust 5D MRI GIF" class="project-img">
                 <h3>One Model for All Domains: Zero-Shot Speech Quality Assessment</h3>
             <ul style="text-align: left;">
-                <li>Applied Sharpness-Aware Minimization (SAM) on unified MOS datasets. </li>
+                <li>Applied Sharpness-Aware Minimization (SAM) on unified MOS label datasets. </li>
                 <li>Learns diverse features, reduces corpus effect, enhances domain generalization. </li> 
                 <li>Up to 76% error reduction & 42% correlation improvement over Adam across twelve test sets. </li>
             </ul>
@@ -65,8 +65,8 @@ title: "Imran E Kibria"
             <img src="/assets/gifs/dipstick.png" alt="UrinoxChart" class="project-img">
                 <h3>Smartphone-Based Urine Test Strip Analysis for At-Home Diagnostics</h3>
             <ul style="text-align: left;">
-                <li>Smartphone application for accurate urine test strip color reading.</li>
-                <li>Combines linear regression color calibration and Euclidean color matching. </li>
+                <li>Smartphone application for accurate urine test strip color reading. </li>
+                <li>Combines linear regression color calibration with Euclidean color matching </li>
                 <li>Achieved 92% accuracy in-house; low-cost, portable solution to lab analyzers. </li>
             </ul>
             <div class="project-links">
