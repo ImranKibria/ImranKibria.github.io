@@ -18,11 +18,33 @@ title: "Imran E Kibria"
     <h2>Research Projects</h2>
     <div class="project-grid">
         <div class="project">
+            <img src="/assets/gifs/5d_mri.gif" alt="Motion-robust 5D MRI GIF" class="project-img">
+                <h3>One Model for All Domains: Zero-Shot Speech Quality Assessment</h3>
+            <p>
+                Applied Sharpness-Aware Minimization (SAM) on unified MOS datasets; Promoted diverse features, reduced corpus effect, enhanced                     cross-domain generalization; Up to 76% MSE reduction and 42% correlation improvement over Adam across 12 test sets.
+            </p>
+            <div class="project-links">
+                <a href="https://arxiv.org/abs/2507.23224" target="_blank" class="custom-link" style="text-decoration: none; display: flex;                         align-items: center; gap: 5px;">
+                    Paper <img src="/assets/icons/paper-icon.png" alt="Paper Icon" style="width:24px; height:24px;">
+                </a>
+                <a>|</a>
+                <a href="https://github.com/OSU-MR/Motion-Robust-5D-MRI-EMORe" target="_blank" class="custom-link" style="text-decoration:                         none; display: flex; align-items: center; gap: 5px;">
+                    Code <img src="/assets/icons/github-icon.png" alt="GitHub Icon" style="width:24px; height:24px;">
+                </a>
+                <a>|</a>
+                <a href="https://doi.org/10.1016/j.jocmr.2024.101509" target="_blank" class="custom-link" style="text-decoration: none;                             display: flex; align-items: center; gap: 5px;">
+                    Abstract <img src="/assets/icons/abstract-icon.png" alt="Abstract Icon" style="width:24px; height:24px;">
+                </a>
+            </div>
+        </div>
+        <div class="project">
             <img src="/assets/gifs/AttentiveMOS_Rotated.png" alt="AttentiveMOS" class="project-img">
                 <h3>Lightweight AI for Perceptual Speech Quality on the Edge</h3>
-            <p>
-                A lightweight attention-only model (86K params) for speech quality; 100× smaller than wav2vec2, yet comparable performance on                     SOMOS dataset; Self-teaching improved noisy-label robustness, +8% in correlation.
-            </p>
+            <ul>
+                <li>A lightweight attention-only model (86K params) for speech quality.
+                <li>100× smaller than wav2vec2, yet comparable performance on SOMOS dataset. 
+                <li>Self-teaching improved noisy-label robustness, +8% in correlation.
+            </ul>
             <div class="project-links">
                 <a href="https://doi.org/10.21437/Interspeech.2025-2315" style="text-decoration: none; display: flex; align-items: center; gap:                     5px;">
                     Paper <img src="/assets/icons/paper-circular.jpeg" alt="Paper Icon" style="width:24px; height:24px;">
@@ -58,26 +80,6 @@ title: "Imran E Kibria"
             </div>
         </div>
         <!-- <div class="project">
-            <img src="/assets/gifs/5d_mri.gif" alt="Motion-robust 5D MRI GIF" class="project-img">
-                <h3>One Model for All Domains: Zero-Shot Speech Quality Assessment</h3>
-            <p>
-                Applied Sharpness-Aware Minimization (SAM) on unified MOS datasets; Promoted diverse features, reduced corpus effect, enhanced                     cross-domain generalization; Up to 76% MSE reduction and 42% correlation improvement over Adam across 12 test sets.
-            </p>
-            <div class="project-links">
-                <a href="https://arxiv.org/abs/2507.23224" target="_blank" class="custom-link" style="text-decoration: none; display: flex;                         align-items: center; gap: 5px;">
-                    Paper <img src="/assets/icons/paper-icon.png" alt="Paper Icon" style="width:24px; height:24px;">
-                </a>
-                <a>|</a>
-                <a href="https://github.com/OSU-MR/Motion-Robust-5D-MRI-EMORe" target="_blank" class="custom-link" style="text-decoration:                         none; display: flex; align-items: center; gap: 5px;">
-                    Code <img src="/assets/icons/github-icon.png" alt="GitHub Icon" style="width:24px; height:24px;">
-                </a>
-                <a>|</a>
-                <a href="https://doi.org/10.1016/j.jocmr.2024.101509" target="_blank" class="custom-link" style="text-decoration: none;                             display: flex; align-items: center; gap: 5px;">
-                    Abstract <img src="/assets/icons/abstract-icon.png" alt="Abstract Icon" style="width:24px; height:24px;">
-                </a>
-            </div>
-        </div>
-        <div class="project">
             <img src="/assets/gifs/glasses.jpg" alt="iSight" class="project-img">
                 <h3>Exploring Optimal Representations & Foundation Models for SQA</h3>
             <p>
