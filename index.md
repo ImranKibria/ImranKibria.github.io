@@ -38,7 +38,7 @@ title: "Imran E Kibria"
             </div>
         </div>
         <div class="project">
-            <img src="/assets/presentations/dipstick.png" alt="UrinoxChart" class="project-img">
+            <img src="/assets/gifs/dipstick.png" alt="UrinoxChart" class="project-img">
                 <h3>Smartphone-Based Urine Test Strip Analysis for At-Home Diagnostics</h3>
             <p>
                 Smartphone application for accurate urine test strip color reading; combines linear regression color calibration with                             Euclidean color matching; achieved 92% accuracy in-house; low-cost, portable alternative to lab analyzers.
