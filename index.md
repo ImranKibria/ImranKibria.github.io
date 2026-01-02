@@ -17,7 +17,7 @@ title: "Imran E Kibria"
 <section class="projects section-divider">
     <h2>Research Projects</h2>
     <div class="project-grid">
-        <div class="project">
+        <!-- <div class="project">
             <img src="/assets/gifs/5d_mri.gif" alt="Motion-robust 5D MRI GIF" class="project-img">
                 <h3>One Model for All Domains: Zero-Shot Speech Quality Assessment</h3>
             <ul>
@@ -38,7 +38,7 @@ title: "Imran E Kibria"
                     Abstract <img src="/assets/icons/abstract-icon.png" alt="Abstract Icon" style="width:24px; height:24px;">
                 </a>
             </div>
-        </div>
+        </div> -->
         <div class="project">
             <img src="/assets/gifs/AttentiveMOS_Rotated.png" alt="AttentiveMOS" class="project-img">
                 <h3>Lightweight AI for Perceptual Speech Quality on the Edge</h3>
