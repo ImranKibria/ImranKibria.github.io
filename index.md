@@ -26,16 +26,16 @@ title: "Imran E Kibria"
                 <li>Up to 76% error reduction & 42% correlation improvement over Adam across twelve test sets. </li>
             </ul>
             <div class="project-links">
-                <a href="https://arxiv.org/abs/2507.23224" target="_blank" class="custom-link" style="text-decoration: none; display: flex;                         align-items: center; gap: 5px;">
-                    Paper <img src="/assets/icons/paper-icon.png" alt="Paper Icon" style="width:24px; height:24px;">
+                <a href="" target="_blank" class="custom-link" style="text-decoration: none; display: flex; align-items: center; gap: 5px;">
+                    Paper <img src="/assets/icons/paper-circular.jpeg" alt="Paper Icon" style="width:24px; height:24px;">
                 </a>
                 <a>|</a>
-                <a href="https://github.com/OSU-MR/Motion-Robust-5D-MRI-EMORe" target="_blank" class="custom-link" style="text-decoration:                         none; display: flex; align-items: center; gap: 5px;">
-                    Code <img src="/assets/icons/github-icon.png" alt="GitHub Icon" style="width:24px; height:24px;">
+                <a href="" target="_blank" class="custom-link" style="text-decoration: none; display: flex; align-items: center; gap: 5px;">
+                    Code <img src="/assets/icons/github-circular.jpeg" alt="GitHub Icon" style="width:24px; height:24px;">
                 </a>
                 <a>|</a>
-                <a href="https://doi.org/10.1016/j.jocmr.2024.101509" target="_blank" class="custom-link" style="text-decoration: none;                             display: flex; align-items: center; gap: 5px;">
-                    Abstract <img src="/assets/icons/abstract-icon.png" alt="Abstract Icon" style="width:24px; height:24px;">
+                <a href="" target="_blank" class="custom-link" style="text-decoration: none; display: flex; align-items: center; gap: 5px;">
+                    Abstract <img src="/assets/icons/presentation-circular.jpeg" alt="Abstract Icon" style="width:24px; height:24px;">
                 </a>
             </div>
         </div>
@@ -66,7 +66,7 @@ title: "Imran E Kibria"
                 <h3>Smartphone-Based Urine Test Strip Analysis for At-Home Diagnostics</h3>
             <ul style="text-align: left;">
                 <li>Smartphone application for accurate urine test strip color reading.</li>
-                <li>Combines linear regression color calibration with Euclidean color matching </li>
+                <li>Combines linear regression color calibration and Euclidean color matching. </li>
                 <li>Achieved 92% accuracy in-house; low-cost, portable solution to lab analyzers. </li>
             </ul>
             <div class="project-links">
