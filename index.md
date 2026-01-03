@@ -62,7 +62,7 @@ title: "Imran E Kibria"
             </div>
         </div>
         <div class="project">
-            <img src="/assets/gifs/dipstick.png" alt="UrinoxChart" class="project-img">
+            <img src="/assets/gifs/UrinoxDipstick.png" alt="Urinox 10" class="project-img">
                 <h3>Smartphone-Based Urine Test Strip Analysis for At-Home Diagnostics</h3>
             <ul style="text-align: left;">
                 <li>Smartphone application for accurate urine test strip color reading. </li>
