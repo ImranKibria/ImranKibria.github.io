@@ -23,7 +23,7 @@ title: "Imran E Kibria"
             <ul style="text-align: left;">
                 <li>Adopted Sharpness-Aware Minimization for training over unified MOS datasets. </li>
                 <li>Promotes flatter minima and diverse features, enhancing domain generality. </li> 
-                <li>Up to 76% error reduction and 42% correlation boost over Adam across twelve test sets. </li>
+                <li>Up to 76% error reduction over Adam optimizer across twelve test sets. </li>
             </ul>
             <div class="project-links">
                 <a href="" target="_blank" class="custom-link" style="text-decoration: none; display: flex; align-items: center; gap: 5px;">
