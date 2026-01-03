@@ -22,7 +22,7 @@ title: "Imran E Kibria"
                 <h3>One Model for All Domains: Zero-Shot Speech Quality Assessment</h3>
             <ul style="text-align: left;">
                 <li>Adopted Sharpness-Aware Minimization for training over unified MOS datasets. </li>
-                <li>Promotes diverse features and flatter minima, enhancing domain generalization </li> 
+                <li>Promotes diverse features & flatter minima, enhancing domain generalization. </li> 
                 <li>Up to 76% error reduction and 42% correlation boost over Adam across twelve test sets. </li>
             </ul>
             <div class="project-links">
