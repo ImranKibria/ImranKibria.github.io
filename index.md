@@ -7,7 +7,7 @@ title: "Imran E Kibria"
     <h2>News & Updates</h2>
     <ul>   
         <!-- <li>Awarded 2nd Place at the 2025 Hayes Research Forum for my oral presentation on “Motion-Robust Volumetric CMR.”</li> -->
-        <li>2026: Our work on improving domain generalization of speech quality networks has been accepted at the <em>IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP) conference</em>. </li>
+        <li>2026: Our work on improving domain generalization of speech quality networks has been accepted at the <em>IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP)</em>. </li>
         <li>2025: Our work on small scale modeling of speech quality for edge applications has been published at the <em>ISCA Interspeech Conference</em>. </li>  
         <li>2023: Awarded merit-based fellowship "CSE Scarlet & Gray Award" by the Ohio State University for 5 years. </li>
         <li>2022: Our work on automation of color assesssment for urine test analysis has been published at the <em>IEEE Engineering in Medicine and Biology Conference (EMBC)</em>. </li>
