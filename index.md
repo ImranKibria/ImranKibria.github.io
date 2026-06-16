@@ -27,11 +27,11 @@ title: "Imran E Kibria"
                 <li>Up to 76% error reduction over Adam optimizer across twelve test sets. </li>
             </ul>
             <div class="project-links">
-                <a href="" target="_blank" class="custom-link" style="text-decoration: none; display: flex; align-items: center; gap: 5px;">
+                <a href="https://doi.org/10.1109/ICASSP55912.2026.11464267" target="_blank" class="custom-link" style="text-decoration: none; display: flex; align-items: center; gap: 5px;">
                     Paper <img src="/assets/icons/paper-circular.jpeg" alt="Paper Icon" style="width:24px; height:24px;">
                 </a>
                 <a>|</a>
-                <a href="" target="_blank" class="custom-link" style="text-decoration: none; display: flex; align-items: center; gap: 5px;">
+                <a href="https://github.com/ImranKibria/SAM_AttentiveMOS" target="_blank" class="custom-link" style="text-decoration: none; display: flex; align-items: center; gap: 5px;">
                     Code <img src="/assets/icons/github-circular.jpeg" alt="GitHub Icon" style="width:24px; height:24px;">
                 </a>
                 <a>|</a>
