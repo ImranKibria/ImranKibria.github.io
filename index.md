@@ -6,7 +6,7 @@ title: "Imran E Kibria"
 <section class="news section-divider">
     <h2>News & Updates</h2>
     <ul>   
-        <!-- <li>Awarded 2nd Place at the 2025 Hayes Research Forum for my oral presentation on “Motion-Robust Volumetric CMR.”</li> -->
+        <li>Received the Summer Graduate Research Award from the Center of Cognitive and Brain Sciences (CCBS) to support research on the cognitive perception of speech quality.”</li>
         <li>2026: Our work on improving domain generalization of speech quality networks has been accepted at the <em>IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP)</em>. </li>
         <li>2025: Our work on small scale modeling of speech quality for edge applications has been published at the <em>ISCA Interspeech Conference</em>. </li>  
         <li>2023: Awarded merit-based fellowship "CSE Scarlet & Gray Award" by the Ohio State University for 5 years. </li>
