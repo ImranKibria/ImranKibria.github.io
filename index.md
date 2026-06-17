@@ -24,7 +24,6 @@ title: "Imran E Kibria"
             <ul style="text-align: left;">
                 <li>Studied domain shift and range-equalizing bias across seven speech quality datasets</li>
                 <li>Applied Sharpness-Aware Minimization to improve cross-domain generalization.</li>
-                <li>Promotes flatter minima and diverse features, enhancing domain generality.</li> 
                 <li>Analyzed loss landscapes and model flatness to explain robustness gains.</li>
                 <li>Reduced MSE by up to 76% and improved correlation by 42% across eleven test sets.</li>
             </ul>
@@ -38,7 +37,7 @@ title: "Imran E Kibria"
                 </a>
                 <a>|</a>
                 <a href="" target="_blank" class="custom-link" style="text-decoration: none; display: flex; align-items: center; gap: 5px;">
-                    Presentation <img src="/assets/icons/presentation-circular.jpeg" alt="Abstract Icon" style="width:24px; height:24px;">
+                    Poster <img src="/assets/icons/presentation-circular.jpeg" alt="Abstract Icon" style="width:24px; height:24px;">
                 </a>
             </div>
         </div>
@@ -46,9 +45,10 @@ title: "Imran E Kibria"
             <img src="/assets/gifs/AttentiveMOS_Rotated.png" alt="AttentiveMOS" class="project-img">
                 <h3>Lightweight AI for Perceptual Speech Quality on the Edge</h3>
             <ul style="text-align: left;">
-                <li>A lightweight attention-based model (86K params) for speech quality. </li>
-                <li>100× smaller than wav2vec2, yet similar performance on SOMOS dataset. </li>
-                <li>Self-teaching improved noisy-label robustness, +8% in correlation. </li>
+                <li>Developed an attention-based MOS prediction model with only 87K parameters.</li>
+                <li>Investigated transformer design choices, including the role of positional encodings.</li>
+                <li>Achieved performance comparable to wav2vec 2.0 while using 100× fewer parameters.</li>
+                <li>Improved noisy-label robustness through self-teaching, increasing correlation by 8%.</li>
             </ul>
             <div class="project-links">
                 <a href="https://doi.org/10.21437/Interspeech.2025-2315" style="text-decoration: none; display: flex; align-items: center; gap:                     5px;">
