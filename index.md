@@ -21,11 +21,11 @@ title: "Imran E Kibria"
         <div class="project">
             <img src="/assets/gifs/comingsoon.jpg" alt="Motion-robust 5D MRI GIF" class="project-img">
                 <h3>One Model for All Domains: Zero-Shot Speech Quality Assessment</h3>
-            <ul style="text-align: justify;">
+            <ul style="text-align: left;">
                 <li>Analysis of domain shift and range-equalizing bias across 7 datasets.</li>
                 <li>Sharpness-Aware Minimization for improved domain generalization.</li>
                 <li>Loss landscape analysis to characterize model flatness.</li>
-                <li>Up to 76% MSE reduction & 42% correlation improvement across 11 test sets.</li>
+                <li>Up to 76% MSE reduction & 42% SRCC improvement across 11 test sets.</li>
             </ul>
             <div class="project-links">
                 <a href="https://doi.org/10.1109/ICASSP55912.2026.11464267" target="_blank" class="custom-link" style="text-decoration: none; display: flex; align-items: center; gap: 5px;">
@@ -44,7 +44,7 @@ title: "Imran E Kibria"
         <div class="project">
             <img src="/assets/gifs/AttentiveMOS_Rotated.png" alt="AttentiveMOS" class="project-img">
                 <h3>Lightweight AI for Perceptual Speech Quality on the Edge</h3>
-            <ul style="text-align: justify;">
+            <ul style="text-align: left;">
                 <li>87K-parameter attention-based MOS prediction model.</li>
                 <li>Transformer architecture and positional encoding analysis.</li>
                 <li>wav2vec 2.0-level performance with 100× fewer parameters.</li>
@@ -67,7 +67,7 @@ title: "Imran E Kibria"
         <div class="project">
             <img src="/assets/gifs/UrinoxDipstick.png" alt="Urinox 10" class="project-img">
                 <h3>Smartphone-Based Urine Test Strip Analysis for At-Home Diagnostics</h3>
-            <ul style="text-align: justify;">
+            <ul style="text-align: left;">
                 <li>Smartphone-based automated urine test strip analysis.</li>
                 <li>Linear-regression color calibration and Euclidean color matching.</li>
                 <li>92% in-house accuracy; low-cost alternative to laboratory analyzers.</li>
