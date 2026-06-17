@@ -19,7 +19,7 @@ title: "Imran E Kibria"
     <h2>Research Projects</h2>
     <div class="project-grid">
         <div class="project">
-            <img src="/assets/gifs/SurfacePlot.png" alt="Motion-robust 5D MRI GIF" class="project-img">
+            <img src="/assets/gifs/SurfacePlot.png" alt="Loss Landscape" class="project-img">
                 <h3>One Model for All Domains: Zero-Shot Speech Quality Assessment</h3>
             <ul style="text-align: left;">
                 <li>Analysis of domain shift and range-equalizing bias across 7 datasets.</li>
