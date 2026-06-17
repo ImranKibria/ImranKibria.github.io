@@ -68,9 +68,9 @@ title: "Imran E Kibria"
             <img src="/assets/gifs/UrinoxDipstick.png" alt="Urinox 10" class="project-img">
                 <h3>Smartphone-Based Urine Test Strip Analysis for At-Home Diagnostics</h3>
             <ul style="text-align: left;">
-                <li>Smartphone application for accurate urine test strip color reading. </li>
-                <li>Combines linear regression color calibration with Euclidean color matching </li>
-                <li>Achieved 92% accuracy in-house; low-cost, portable solution to lab analyzers. </li>
+                <li>Developed a smartphone-based system for automated urine test strip analysis.</li>
+                <li>Combined color calibration via linear regression with Euclidean color matching.</li>
+                <li>Achieved 92% in-house accuracy as a low-cost alternative to laboratory analyzers.</li>
             </ul>
             <div class="project-links">
                 <a href="https://doi.org/10.1109/EMBC48229.2022.9870917" style="text-decoration: none; display: flex; align-items: center; gap:                     5px;">
