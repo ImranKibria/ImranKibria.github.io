@@ -6,7 +6,7 @@ title: "Imran E Kibria"
 <section class="news section-divider">
     <h2>News & Updates</h2>
     <ul>   
-        <li>Received the Summer Graduate Research Award from the Center of Cognitive and Brain Sciences (CCBS) to support research on the cognitive perception of speech quality.”</li>
+        <li>Received the Summer Graduate Research Award from the Center of Cognitive and Brain Sciences (CCBS) to support research on the cognitive perception of speech quality.</li>
         <li>Our work on improving domain generalization of speech quality networks has been accepted at the <em>IEEE ICASSP'26 Conference</em>. </li>
         <li>Our work on small scale modeling of speech quality for edge applications has been published at the <em>ISCA Interspeech'25 Conference</em>. </li>  
         <li>Awarded merit-based fellowship "CSE Scarlet & Gray Award" by the Ohio State University for 5 years. </li>
@@ -92,10 +92,10 @@ title: "Imran E Kibria"
 
 <!-- <h3>Journal Articles</h3> -->
 <ul class="publication-list">
-<li><div class="publication-title"><a href="https://doi.org/10.1109/ICASSP55912.2026.11464267" target="_blank"> A Generalization Strategy for Speech Quality Prediction: From Domain-Specific to Unified Datasets</a><span class="publication-year">2026</span></div><div class="publication-authors"> <strong>Imran E Kibria</strong>, Ada Lamba, Donald S. Williamson </div><div class="publication-journal"><em> IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP) 2026, 15122-15126</em>
+<li><div class="publication-title"><a href="https://doi.org/10.1109/ICASSP55912.2026.11464267" target="_blank"> A Generalization Strategy for Speech Quality Prediction: From Domain-Specific to Unified Datasets</a><span class="publication-year">2026</span></div><div class="publication-authors"> <strong>Imran E Kibria</strong>, Ada Lamba, Donald S. Williamson </div><div class="publication-journal"><em> IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP) 2026, pp. 15122-15126.</em>
 </div></li>
-<li><div class="publication-title"><a href="https://doi.org/10.21437/Interspeech.2025-2315" target="_blank"> AttentiveMOS: A Lightweight Attention-Only Model for Speech Quality Prediction</a><span class="publication-year">2025</span></div><div class="publication-authors"> <strong>Imran E Kibria</strong>, Donald S. Williamson </div><div class="publication-journal"><em> ISCA Proc. Interspeech 2025, 2340-2344</em></div></li>
-<li><div class="publication-title"><a href="https://doi.org/10.1109/EMBC48229.2022.9870917" target="_blank">Smartphone-Based Point-of-Care Urinalysis Assessment</a><span class="publication-year">2022</span></div><div class="publication-authors"><strong>Imran E Kibria</strong>, Hussnain Ali, Shoab A. Khan</div><div class="publication-journal"><em> 44th Annual International Conference of the IEEE Engineering in Medicine & Biology Society (EMBC) 2022, 3374-3377</em>
+<li><div class="publication-title"><a href="https://doi.org/10.21437/Interspeech.2025-2315" target="_blank"> AttentiveMOS: A Lightweight Attention-Only Model for Speech Quality Prediction</a><span class="publication-year">2025</span></div><div class="publication-authors"> <strong>Imran E Kibria</strong>, Donald S. Williamson </div><div class="publication-journal"><em> ISCA Proc. Interspeech 2025, pp. 2340-2344.</em></div></li>
+<li><div class="publication-title"><a href="https://doi.org/10.1109/EMBC48229.2022.9870917" target="_blank">Smartphone-Based Point-of-Care Urinalysis Assessment</a><span class="publication-year">2022</span></div><div class="publication-authors"><strong>Imran E Kibria</strong>, Hussnain Ali, Shoab A. Khan</div><div class="publication-journal"><em> 44th Annual International Conference of the IEEE Engineering in Medicine & Biology Society (EMBC) 2022, pp. 3374-3377.</em>
 </div></li>
 </ul>
 
