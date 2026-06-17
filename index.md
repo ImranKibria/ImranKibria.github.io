@@ -7,10 +7,10 @@ title: "Imran E Kibria"
     <h2>News & Updates</h2>
     <ul>   
         <li>Received the Summer Graduate Research Award from the Center of Cognitive and Brain Sciences (CCBS) to support research on the cognitive perception of speech quality.”</li>
-        <li>2026: Our work on improving domain generalization of speech quality networks has been accepted at the <em>IEEE ICASSP Conference</em>. </li>
-        <li>2025: Our work on small scale modeling of speech quality for edge applications has been published at the <em>ISCA Interspeech Conference</em>. </li>  
-        <li>2023: Awarded merit-based fellowship "CSE Scarlet & Gray Award" by the Ohio State University for 5 years. </li>
-        <li>2022: Our work on automation of color assesssment for urine test analysis has been published at the <em>IEEE EMBC Conference</em>. </li>
+        <li>Our work on improving domain generalization of speech quality networks has been accepted at the <em>IEEE ICASSP'26 Conference</em>. </li>
+        <li>Our work on small scale modeling of speech quality for edge applications has been published at the <em>ISCA Interspeech'25 Conference</em>. </li>  
+        <li>Awarded merit-based fellowship "CSE Scarlet & Gray Award" by the Ohio State University for 5 years. </li>
+        <li>Our work on automation of color assesssment for urine test analysis has been published at the <em>IEEE EMBC'22 Conference</em>. </li>
     </ul>
 </section>
 
