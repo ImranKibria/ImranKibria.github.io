@@ -22,9 +22,11 @@ title: "Imran E Kibria"
             <img src="/assets/gifs/comingsoon.jpg" alt="Motion-robust 5D MRI GIF" class="project-img">
                 <h3>One Model for All Domains: Zero-Shot Speech Quality Assessment</h3>
             <ul style="text-align: left;">
-                <li>Adopted Sharpness-Aware Minimization for training over unified MOS datasets. </li>
-                <li>Promotes flatter minima and diverse features, enhancing domain generality. </li> 
-                <li>Up to 76% error reduction over Adam optimizer across twelve test sets. </li>
+                <li>Studied domain shift and range-equalizing bias across seven speech quality datasets</li>
+                <li>Applied Sharpness-Aware Minimization to improve cross-domain generalization.</li>
+                <li>Promotes flatter minima and diverse features, enhancing domain generality.</li> 
+                <li>Analyzed loss landscapes and model flatness to explain robustness gains.</li>
+                <li>Reduced MSE by up to 76% and improved correlation by 42% across eleven test sets.</li>
             </ul>
             <div class="project-links">
                 <a href="https://doi.org/10.1109/ICASSP55912.2026.11464267" target="_blank" class="custom-link" style="text-decoration: none; display: flex; align-items: center; gap: 5px;">
