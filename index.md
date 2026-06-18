@@ -36,7 +36,7 @@ title: "Imran E Kibria"
                     Code <img src="/assets/icons/github-circular.jpeg" alt="GitHub Icon" style="width:24px; height:24px;">
                 </a>
                 <a>|</a>
-                <a href="/assets/gifs/ICASSP_poster_afterConference.pdf" target="_blank" class="custom-link" style="text-decoration: none; display: flex; align-items: center; gap: 5px;">
+                <a href="/assets/presentations/ICASSP_poster.pdf" target="_blank" class="custom-link" style="text-decoration: none; display: flex; align-items: center; gap: 5px;">
                     Poster <img src="/assets/icons/presentation-circular.jpeg" alt="Abstract Icon" style="width:24px; height:24px;">
                 </a>
             </div>
