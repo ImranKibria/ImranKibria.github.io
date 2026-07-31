@@ -45,10 +45,10 @@ title: "Imran E Kibria"
             <img src="/assets/gifs/AttentiveMOS_Rotated.png" alt="AttentiveMOS" class="project-img">
                 <h3>Lightweight AI for Perceptual Speech Quality on the Edge</h3>
             <ul style="text-align: left;">
-                <li>Designed 86K param attention-based network for estimating MOS on the edge</li>
-                <li>Analyzed design choices including transformer variants & positional encodings</li>
-                <li>Generalized over subjective noise in MOS ratings using a distillation scheme</li>
-                <li>Achieved wav2vec-level performance with 100× fewer parameters on SOMOS dataset</li>
+                <li>Designed 86K param attention-only network for estimating MOS on the edge</li>
+                <li>Analyzed transformer variants & positional encodings as design choices</li>
+                <li>Countered subjective noise in MOS ratings using a distillation strategy</li>
+                <li>Achieved wav2vec-level performance with 100× fewer parameters on SOMOS set</li>
             </ul>
             <div class="project-links">
                 <a href="https://doi.org/10.21437/Interspeech.2025-2315" style="text-decoration: none; display: flex; align-items: center; gap:                     5px;">
