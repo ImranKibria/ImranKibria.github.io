@@ -69,7 +69,7 @@ title: "Imran E Kibria"
                 <h3>Smartphone-Based Urine Test Strip Analysis for At-Home Diagnostics</h3>
             <ul style="text-align: left;">
                 <li>Algorithm for automated urine test strip analysis using smartphone camera.</li>
-                <li>Lightening & chromatic calibration using multivariate regression scheme.</li>
+                <li>Lighting & chromatic calibration using multivariate regression scheme.</li>
                 <li>Color matching with reference chart in different colors spaces.</li>
                 <li>92% in-house accuracy; low-cost alternative to laboratory analyzers.</li>
             </ul>
