@@ -48,7 +48,7 @@ title: "Imran E Kibria"
                 <li>Designed MOS prediction network for edge applications using 86K params.</li>
                 <li>Analyzed transformer variants & positional encodings as design choices.</li>
                 <li>Countered subjective noise in MOS ratings using a distillation strategy.</li>
-                <li>wav2vec2-level performance with 100× fewer parameters on SOMOS dataset.</li>
+                <li>wav2vec-level performance with 100× fewer parameters on SOMOS dataset.</li>
             </ul>
             <div class="project-links">
                 <a href="https://doi.org/10.21437/Interspeech.2025-2315" style="text-decoration: none; display: flex; align-items: center; gap:                     5px;">
