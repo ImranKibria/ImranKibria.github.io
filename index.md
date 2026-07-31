@@ -22,10 +22,10 @@ title: "Imran E Kibria"
             <img src="/assets/gifs/SurfacePlot.png" alt="Loss Landscape" class="project-img">
                 <h3>One Model for All Domains: Zero-Shot Speech Quality Assessment</h3>
             <ul style="text-align: left;">
-                <li>Analyzed factors influencing domain shift in MOS-label datasests</li>
-                <li>Improved generalization by optimizing model weights to a flat minima</li>
-                <li>Investigated loss landscape and dataset distributions in latent space</li>
-                <li>Reported statistically significant improvement on 8/12 evaluation sets</li>
+                <li>Analyzed factors influencing domain shift in MOS-label datasests.</li>
+                <li>Improved generalization by optimizing model weights to a flat minima.</li>
+                <li>Investigated loss landscape and dataset distributions in latent space.</li>
+                <li>Reported improvement over AdamW optimizer on 8 of 12 evaluation sets.</li>
             </ul>
             <div class="project-links">
                 <a href="https://doi.org/10.1109/ICASSP55912.2026.11464267" target="_blank" class="custom-link" style="text-decoration: none; display: flex; align-items: center; gap: 5px;">
@@ -45,10 +45,10 @@ title: "Imran E Kibria"
             <img src="/assets/gifs/AttentiveMOS_Rotated.png" alt="AttentiveMOS" class="project-img">
                 <h3>Lightweight AI for Perceptual Speech Quality on the Edge</h3>
             <ul style="text-align: left;">
-                <li>Designed 86K param attention-only network for estimating MOS on the edge</li>
-                <li>Analyzed transformer variants & positional encodings as design choices</li>
-                <li>Countered subjective noise in MOS ratings using a distillation strategy</li>
-                <li>wav2vec2-level performance with 100× fewer parameters on SOMOS dataset</li>
+                <li>Designed MOS prediction network for edge applications using 86K params.</li>
+                <li>Analyzed transformer variants & positional encodings as design choices.</li>
+                <li>Countered subjective noise in MOS ratings using a distillation strategy.</li>
+                <li>wav2vec2-level performance with 100× fewer parameters on SOMOS dataset.</li>
             </ul>
             <div class="project-links">
                 <a href="https://doi.org/10.21437/Interspeech.2025-2315" style="text-decoration: none; display: flex; align-items: center; gap:                     5px;">
