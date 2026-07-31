@@ -6,7 +6,7 @@ title: "Imran E Kibria"
 <section class="news section-divider">
     <h2>News & Updates</h2>
     <ul>   
-        <li>Selected for the summer Graduate Research Award by the Center of Cognitive and Brain Sciences to support research on the cognitive perception of speech quality.</li>
+        <li>Awarded summer grant by the Center of Cognitive and Brain Sciences to research the cognitive perception of speech quality.</li>
         <li>Our work on improving domain generalization of speech quality networks has been accepted at the <em>IEEE ICASSP'26 Conference</em>. </li>
         <li>Our work on small scale modeling of speech quality for edge applications has been published at the <em>ISCA Interspeech'25 Conference</em>. </li>  
         <li>Awarded merit-based fellowship "CSE Scarlet & Gray Award" by the Ohio State University for 5 years. </li>
