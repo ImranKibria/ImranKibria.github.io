@@ -22,7 +22,7 @@ title: "Imran E Kibria"
             <img src="/assets/gifs/SurfacePlot.png" alt="Loss Landscape" class="project-img">
                 <h3>One Model for All Domains: Zero-Shot Speech Quality Assessment</h3>
             <ul style="text-align: left;">
-                <li>Analyzed factors influencing domain shift in MOS-label datasests.</li>
+                <li>Analyzed factors influencing domain shift in MOS-label datasets.</li>
                 <li>Improved generalization by optimizing model weights to a flat minima.</li>
                 <li>Investigated loss landscape and dataset distributions in latent space.</li>
                 <li>Reported improvement over AdamW optimizer on 8 of 12 evaluation sets.</li>
@@ -48,7 +48,7 @@ title: "Imran E Kibria"
                 <li>Designed MOS prediction network for edge applications using 86K params.</li>
                 <li>Analyzed transformer variants & positional encodings as design choices.</li>
                 <li>Countered subjective noise in MOS ratings using a distillation strategy.</li>
-                <li>wav2vec-level performance with 100× fewer parameters on SOMOS dataset.</li>
+                <li>Wav2vec-level performance with 100× fewer parameters on SOMOS dataset.</li>
             </ul>
             <div class="project-links">
                 <a href="https://doi.org/10.21437/Interspeech.2025-2315" style="text-decoration: none; display: flex; align-items: center; gap:                     5px;">
